@@ -1,0 +1,97 @@
+body{
+	background:#CCC;
+	width:1024px;
+	display:block;
+	margin:auto;
+	font:Georgia, "Times New Roman", Times, serif;
+}
+#principal {
+	background:white;
+	border-radius:10px 10px 10px 10px;
+	-ms-border-radius:10px 10px 10px 10px;
+	-webkit-border-radius:10px 10px 10px 10px;
+	-moz-border-radius:10px 10px 10px 10px;
+	-o-border-radius:10px 10px 10px 10px;
+	-ms-box-shadow:0 0 1.3em black;
+	-moz-box-shadow:0 0 1.3em black;
+	-webkit-box-shadow:0 0 1.3em black;
+	-o-box-shadow:0 0 1.3em black;
+	box-shadow:0 0 1.3em black;
+}
+h1 {
+	border:Outset 6px LightBlue;
+	background-color:DarkSlateBlue;
+	text-align:center;
+    font-family: sans-serif;
+    font-size: 2rem;
+	color:Khaki;
+}
+.entrada {
+	background-color:LightGoldenrodYellow;
+	font-family:"Bitstream Vera Serif";
+	font-weight:bold;
+	font-size:12pt;
+	color:Crimson;
+	text-align:center;
+	width: 100%;
+}
+.salida {
+	text-align:center;
+	width: 100%;
+}
+
+/* input[type=text]{
+	border-radius:7px;	
+} */
+/* .fecha {
+	background-color:LightGoldenrodYellow;
+	font-family:"Bitstream Vera Serif";
+	color:Crimson;
+	font-weight:bold;
+	font-size:12pt;
+	text-align:center;
+} */
+p {
+	font-family: sans-serif;
+	font-style: normal;
+	font-size:1rem;
+    margin: 6px;
+	/* color:blue; */
+}
+h2 {
+	font-family:  sans-serif;
+	color: red;
+	font-size:24px;
+}
+
+.margin-message{
+    margin: 3%;
+    font-size: 1.3rem; 
+}
+
+.b-info-message{
+    border: solid 0.5px silver;
+}
+
+.margin-button-plus{
+    margin: 5px;
+}
+
+.w-hr{
+    width: 30%;
+}
+
+.codealum{
+    font-size: 11px !important;
+}
+
+.input-value-note{
+    width: 100%;
+}
+
+.hide{
+    display: none;
+}
+.show{
+    display: block;
+}
